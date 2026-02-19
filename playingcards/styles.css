@@ -32,7 +32,7 @@
 
 }      
 
-.card-top {
+.card-bottom {
    /* TODO: Add part of your solution here */
    position: absolute;
    left: 150px;
@@ -41,7 +41,7 @@
 
 }
 
-.card-bottom {
+.card-top {
    /* TODO: Add part of your solution here */
    position: absolute;
    left: 240px;
@@ -70,7 +70,7 @@
    /* TODO: Add part of your solution here */
    position: absolute;
    left: 5px;
-   top: 20px;
+   top: 5px;
    z-index: 1;
 
 }
